@@ -93,13 +93,7 @@ Ans: Australia seems to be doing slighly well or even above the average when com
 
 <p>&nbsp;</p>
 
-### The hyperlinks below take you to directories in this repository:
-
-- [App](https://github.com/TribThapa/PropertyAnalysis/tree/main/AusEconomy_App)
-- [Code](https://github.com/TribThapa/PropertyAnalysis/tree/main/Code)
-- [Data](https://github.com/TribThapa/PropertyAnalysis/tree/main/data)
-- [Images](https://github.com/TribThapa/PropertyAnalysis/tree/main/Images)
-- [Presentation](https://github.com/TribThapa/PropertyAnalysis/tree/main/Presentation)
+### Check out the [App](https://tribthapa-ausecon-auseconomyapp-r3oiwa.streamlitapp.com/)
 
 <p>&nbsp;</p>
 
